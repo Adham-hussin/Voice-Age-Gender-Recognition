@@ -3,6 +3,7 @@
 ## Preprocessing Module
 ### Notes
 - Steps:
+    0. Data Balancing
     1. Format Normalization
     2. Denoising
     3. Amplitude Normalization
@@ -26,7 +27,7 @@
 
 ## Model Selection and Training Module
 ### Notes
-- 
+- grid search for model selection and hyperparameter tuning
 
 ### Resources
 - 
