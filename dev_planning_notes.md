@@ -14,6 +14,7 @@
 
 ### Resources
 - [GfG - Preprocessing the Audio Dataset](https://www.geeksforgeeks.org/preprocessing-the-audio-dataset/)
+- [GfG - Handling Imbalanced Data for Classification](https://www.geeksforgeeks.org/handling-imbalanced-data-for-classification/)
 
 ## Feature Extraction/Selection Module
 ### Notes
