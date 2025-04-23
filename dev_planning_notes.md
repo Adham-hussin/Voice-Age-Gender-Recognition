@@ -3,17 +3,18 @@
 ## Preprocessing Module
 ### Notes
 - Steps:
-    0. Data Balancing
-    1. Format Normalization
-    2. Denoising
+    0. Format Normalization (No Need, All MP3)
+    1. Resampling (No Need, All 48kHz)
+    2. Denoising (LPF)
     3. Amplitude Normalization
     4. Tempo Normalization
     5. Handle Variable Length 
-    6. Resampling
+    6. Data Balancing (Handle Imbalanced Data)
 
 
 ### Resources
 - [GfG - Preprocessing the Audio Dataset](https://www.geeksforgeeks.org/preprocessing-the-audio-dataset/)
+- [GfG - Handling Imbalanced Data for Classification](https://www.geeksforgeeks.org/handling-imbalanced-data-for-classification/)
 
 ## Feature Extraction/Selection Module
 ### Notes
