@@ -1,1 +1,4 @@
 data
+processed*
+trimmed_padded
+.vscode
